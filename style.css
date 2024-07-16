@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 1px solid black;
+   
+}
+
+.heading{
+    border: 1px solid red;
+    text-align: center;
+    margin: 10px;
+}
+
+.description{
+    border: 1px solid blue;
+    margin: 10px;
+
+}
